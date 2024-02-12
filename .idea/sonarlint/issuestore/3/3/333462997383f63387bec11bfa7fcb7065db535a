@@ -1,0 +1,26 @@
+
+g	java:S112,"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8şÈÕƒÂ1
+g	java:S1121"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÿÈÕƒÂ1
+h	java:S112²"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÿÈÕƒÂ1
+W
+java:S1141O"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÿÈÕƒÂ1
+X
+java:S1141’"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÿÈÕƒÂ1
+o
+java:S2095*"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¦ôµôúÿÿÿÿ8ùÊÕƒÂ1
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(º™Ú78úÊÕƒÂ1
+|
+java:S2142±"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ÿÊÕƒÂ1
+{
+java:S2142Q"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ËÕƒÂ1
+p
+java:S1128"NRemove this unused import 'org.openqa.selenium.support.ui.ExpectedConditions'.(û€Èéúÿÿÿÿ8…ËÕƒÂ1
+f
+java:S1128"IRemove this unused import 'org.openqa.selenium.support.ui.WebDriverWait'.(¥÷ó8…ËÕƒÂ1
+Q
+java:S1128"/Remove this unused import 'java.time.Duration'.(ëá¯‰üÿÿÿÿ8…ËÕƒÂ1
+Z
+java:S1128"8Remove this unused import 'org.apache.poi.ss.usermodel'.(êÚëöüÿÿÿÿ8†ËÕƒÂ1
+i
+java:S1128"GRemove this unused import 'org.apache.poi.xssf.usermodel.XSSFWorkbook'.(Œ¦ƒëşÿÿÿÿ8†ËÕƒÂ1

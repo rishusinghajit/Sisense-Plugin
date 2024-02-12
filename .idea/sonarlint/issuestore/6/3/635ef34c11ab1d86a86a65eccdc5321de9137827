@@ -1,0 +1,38 @@
+
+g	java:S1121"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¯Ò¿1
+g	java:S1126"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¯Ò¿1
+h	java:S112­"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¯Ò¿1
+W
+java:S1141Y"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8°Ò¿1
+W
+java:S1141r"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8°Ò¿1
+X
+java:S1141‰"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8°Ò¿1
+X
+java:S1141œ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8°Ò¿1
+p
+java:S2095½"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¶ÈÖëşÿÿÿÿ8ÉµÒ¿1
+o
+java:S2095/"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¦ôµôúÿÿÿÿ8–¥à¿1
+h
+java:S2095¾"JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(Ë¢Óõ8İ„Ó¿1
+m
+java:S2095À"JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(Ş˜•¹ÿÿÿÿÿ8İ„Ó¿1
+n
+java:S3776 "RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(º™Ú78à„Ó¿1
+|
+java:S2142«"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8æ„Ó¿1
+{
+java:S2142["^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ç„Ó¿1
+G	java:S106j"+Replace this use of System.out by a logger.(¤—§á8è„Ó¿1
+|
+java:S2142¦"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8è„Ó¿1
+^	java:S125ê"<This block of commented-out lines of code should be removed.(š¬®Øúÿÿÿÿ8ø„Ó¿1
+H	java:S106ü"+Replace this use of System.out by a logger.(ŠÈ¤Œ8ù„Ó¿1
+q
+java:S4042"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ë“«øÿÿÿÿ8ú„Ó¿1
+H	java:S106‘"+Replace this use of System.out by a logger.(¤Ì‘Ş8ú„Ó¿1
+M	java:S106“"+Replace this use of System.out by a logger.(ù»Ÿ¥üÿÿÿÿ8ú„Ó¿1
+M	java:S106–"+Replace this use of System.out by a logger.(ã³êşşÿÿÿÿ8ú„Ó¿1
+[
+java:S1144¯"8Remove this unused private "canFindConsoleError" method.(İ’Éºùÿÿÿÿ8ŠÑÛ¿1

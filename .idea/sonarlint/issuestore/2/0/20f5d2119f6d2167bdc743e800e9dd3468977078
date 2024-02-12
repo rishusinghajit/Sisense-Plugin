@@ -1,0 +1,33 @@
+
+g	java:S112)"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ò›¢áÈ1
+g	java:S112."FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ò›¢áÈ1
+h	java:S112š"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ò›¢áÈ1
+u	java:S135`"YReduce the total number of break and continue statements in this loop to use at most one.(ºãŸ8Ø¯·áÈ1
+z	java:S135F"YReduce the total number of break and continue statements in this loop to use at most one.(äÖ¥¡úÿÿÿÿ8¿ÆÉáÈ1
+W
+java:S1141I"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8Ó›¢áÈ1
+W
+java:S1141W"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8Ó›¢áÈ1
+W
+java:S1141a"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8Ó›¢áÈ1
+W
+java:S1141u"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8Ù¯·áÈ1
+X
+java:S1141€"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8¿ÆÉáÈ1
+o
+java:S2095'"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¦ôµôúÿÿÿÿ8Œ¢áÈ1
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(º™Ú78¢áÈ1
+|
+java:S2142™"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8’¢áÈ1
+L	java:S106N"+Replace this use of System.out by a logger.(Ô¥ÒÕüÿÿÿÿ8–¢áÈ1
+{
+java:S2142Y"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8”¢áÈ1
+L	java:S106h"+Replace this use of System.out by a logger.(Ô¥ÒÕüÿÿÿÿ8–¢áÈ1
+R
+java:S2864ˆ"4Iterate over the "entrySet" instead of the "keySet".(ó‰÷Ü8—¢áÈ1
+H	java:S106å"+Replace this use of System.out by a logger.(Ö…Ùõ8÷ÈÉáÈ1
+M
+java:S1128"0Remove this unused import 'java.nio.file.Files'.(‚ƒü8Ÿ¢áÈ1
+M
+java:S1128"0Remove this unused import 'java.nio.file.Paths'.(áè°¯8Ÿ¢áÈ1

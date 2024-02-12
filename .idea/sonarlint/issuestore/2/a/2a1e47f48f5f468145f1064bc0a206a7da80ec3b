@@ -1,0 +1,24 @@
+
+g	java:S112*"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Î¾ÃÏ1
+g	java:S112/"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Î¾ÃÏ1
+g	java:S112b"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Î¾ÃÏ1
+z	java:S135J"YReduce the total number of break and continue statements in this loop to use at most one.(äÖ¥¡úÿÿÿÿ8Ï¾ÃÏ1
+W
+java:S1141L"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8Ï¾ÃÏ1
+X
+java:S1141œ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8Ï¾ÃÏ1
+o
+java:S2095("MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¦ôµôúÿÿÿÿ8‘ÃÃÏ1
+{
+java:S2142a"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ÖÃÃÏ1
+L	java:S106Q"+Replace this use of System.out by a logger.(Ô¥ÒÕüÿÿÿÿ8éÃÃÏ1
+W
+java:S1854²"9Remove this useless assignment to local variable "popup".(Á¹Şã8üÃÃÏ1
+H
+java:S1481²"*Remove this unused "popup" local variable.(Á¹Şã8şÃÃÏ1
+H	java:S106ì"+Replace this use of System.out by a logger.(Ö…Ùõ8ƒÄÃÏ1
+k	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸Õ¨ú8‡ÄÃÏ1
+O
+java:S1172"1Remove this unused method parameter "properties".(¸Õ¨ú8ÄÃÏ1
+R
+java:S2864¤"4Iterate over the "entrySet" instead of the "keySet".(ó‰÷Ü8’ÄÃÏ1

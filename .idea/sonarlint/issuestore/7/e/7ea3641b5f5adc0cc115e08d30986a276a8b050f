@@ -1,0 +1,30 @@
+
+g	java:S112#"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8‘ƒλέ΄1
+g	java:S112("FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8’ƒλέ΄1
+g	java:S112~"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8’ƒλέ΄1
+W
+java:S1141G"5Extract this nested try block into a separate method.(΅»Άόωÿÿÿÿ8’ƒλέ΄1
+W
+java:S1141W"5Extract this nested try block into a separate method.(΅»Άόωÿÿÿÿ8’ƒλέ΄1
+W
+java:S1141g"5Extract this nested try block into a separate method.(΅»Άόωÿÿÿÿ8’ƒλέ΄1
+7
+java:S1220""Move this file to a named package.8“ƒλέ΄1
+o
+java:S2095!"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¦τµτϊÿÿÿÿ8ΪμωπΧ1
+m
+java:S2095‘"JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(ή•Ήÿÿÿÿÿ8ªίμέ΄1
+p
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¶ΘΦλώÿÿÿÿ8«λέ΄1
+h
+java:S2095"JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(ΛΆΣυ8ªίμέ΄1
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Ί™Ϊ78¬λέ΄1
+{
+java:S2142|"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(δ Ή€8±ίμέ΄1
+{
+java:S2142I"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(δ Ή€8²ίμέ΄1
+G	java:S106T"+Replace this use of System.out by a logger.(¤—§α8³ίμέ΄1
+{
+java:S2142w"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(δ Ή€8³ίμέ΄1
+H	java:S106¦"+Replace this use of System.out by a logger.(Θ¤8Όίμέ΄1

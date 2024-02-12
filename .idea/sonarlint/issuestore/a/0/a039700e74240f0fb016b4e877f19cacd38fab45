@@ -1,0 +1,14 @@
+
+g	java:S112$"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8‹„ø·1
+g	java:S112)"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Œ„ø·1
+g	java:S112Z"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Œ„ø·1
+o
+java:S2095""MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¦ôµôúÿÿÿÿ8„ÇÈø·1
+{
+java:S2142X"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8›„ø·1
+L	java:S106O"+Replace this use of System.out by a logger.(Œ§­˜üÿÿÿÿ8„ø·1
+G	java:S106R"+Replace this use of System.out by a logger.(ØÉµá8„ø·1
+L
+java:S1481q"/Remove this unused "errorFound" local variable.(ÜÇª8Ş¾Çø·1
+M
+java:S1481r"0Remove this unused "actualError" local variable.(İâ«Á8ŒÇÈø·1

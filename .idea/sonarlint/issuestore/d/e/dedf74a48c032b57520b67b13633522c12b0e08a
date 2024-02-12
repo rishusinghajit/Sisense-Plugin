@@ -1,0 +1,11 @@
+
+g	java:S112W"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¸Á›è³1
+W
+java:S1141?"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8Ïž¾è³1
+{
+java:S2142U"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8·Ç›è³1
+G	java:S1066"+Replace this use of System.out by a logger.(µ˜”ï8¸Ÿ¾è³1
+L	java:S106G"+Replace this use of System.out by a logger.(¹Þ½æüÿÿÿÿ8ºŸ¾è³1
+L	java:S106L"+Replace this use of System.out by a logger.(°Ž ©ýÿÿÿÿ8»Ÿ¾è³1
+L	java:S106N"+Replace this use of System.out by a logger.(½Ñ´‘úÿÿÿÿ8»Ÿ¾è³1
+L	java:S106R"+Replace this use of System.out by a logger.(øºÑûúÿÿÿÿ8¾Ú÷ë³1

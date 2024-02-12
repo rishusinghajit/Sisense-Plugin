@@ -1,0 +1,25 @@
+
+g	java:S112q"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8‚“È£²1
+W
+java:S11411"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ƒ“È£²1
+W
+java:S1141B"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ƒ“È£²1
+W
+java:S1141Y"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ƒ“È£²1
+7
+java:S1220""Move this file to a named package.8ƒ“È£²1
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(º™Ú78Ñ˜È£²1
+{
+java:S2142o"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Õ˜È£²1
+{
+java:S21423"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Ö˜È£²1
+X	java:S125<"<This block of commented-out lines of code should be removed.(Ä€¹ã8×˜È£²1
+G	java:S106?"+Replace this use of System.out by a logger.(¤—§á8×˜È£²1
+{
+java:S2142j"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8×˜È£²1
+G	java:S106J"+Replace this use of System.out by a logger.(µ˜”ï8×˜È£²1
+G	java:S106O"+Replace this use of System.out by a logger.(’òöÒ8Ù˜È£²1
+L	java:S106Q"+Replace this use of System.out by a logger.(âÉ£ñøÿÿÿÿ8Ù˜È£²1
+L	java:S106b"+Replace this use of System.out by a logger.(µ£Æ–ÿÿÿÿÿ8…›’Å²1
+L	java:S106f"+Replace this use of System.out by a logger.(øºÑûúÿÿÿÿ8…›’Å²1
